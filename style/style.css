@@ -1,0 +1,70 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+   margin: 0px;
+}
+.new{
+    align-items: center;
+    margin-left: 460px;
+    justify-content: space-between;
+    padding: 50px;
+    margin-top: -580px;
+    padding-bottom: 400px;
+
+}
+.New-hero{
+    display: flex;
+    align-items: center;
+    margin-left: 390px;
+ margin-top: -400px;
+}
+nav{ 
+    text-align: center;
+margin-left: 130px;   
+margin-top: -30px;
+}
+.hero-new{
+    text-align: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+.New-top{
+    text-align: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+.new-tag{
+    text-align: center;
+    justify-content: center;
+}
+.roman-new{
+text-align:left;
+}
+.new-rock{
+justify-content: space-between;
+align-items: center;
+margin-left: 600px;
+margin-top: -50px;
+}
+.rock-new{
+margin-left: -870px;
+justify-content: center;
+align-items: center;
+margin-right: 100px;
+}
+.top-new{
+margin-top: -200px;
+margin-left: 300px;
+}
+.My-new{
+align-items: center;
+margin-left: 230px;
+margin-right: 290px;
+}
+.new-don{
+align-items: center;
+margin-left: 300px ;
+margin-top: 45px;
+}
