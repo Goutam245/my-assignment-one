@@ -72,8 +72,8 @@ margin-top: 45px;
     margin-right: 300px;
 }
 .new-hp{
-    margin-top: -50px;
-    margin-left: 500px;
+    margin-top: -60px;
+    margin-left: 650px;
 }
 .new-dp{
     margin-left: -730px;
@@ -86,4 +86,47 @@ margin-top: 45px;
 .new-tp{
     text-align: center;
     justify-content: center;
+}
+.new-pt{
+    margin-left: 300px;
+}
+.new-tcp{
+    text-align: center;
+    justify-content: center;
+    margin-left: 0px;
+}
+.repo-n{
+    justify-content: center;
+margin-left: 80px;
+text-align: center;
+}
+.new-raf{
+    list-style: none;
+    margin-left: 80px;
+}
+.new-tip{
+    justify-content: center;
+    margin-left: 550px;
+    margin-bottom: 90px;
+    margin-top: -650px;
+}
+.new-ti{
+    justify-content: center;
+    margin-left: 350px;
+    margin-bottom: 100px;
+    margin-top: -70px;
+}
+.new-op{
+    text-align: center;
+    list-style: none;
+    margin-left: -30px;
+    margin-top: -90px;
+
+}
+.java-js{
+    text-align: center;
+    justify-content: center;
+    margin-left: 1000px;
+    margin-top: -300px;
+    margin-bottom: 90px;
 }
