@@ -88,45 +88,84 @@ margin-top: 45px;
     justify-content: center;
 }
 .new-pt{
-    margin-left: 300px;
+    margin-left: 350px;
 }
 .new-tcp{
-    text-align: center;
-    justify-content: center;
-    margin-left: 0px;
+    margin-left: 530px;
 }
 .repo-n{
-    justify-content: center;
-margin-left: 80px;
-text-align: center;
+    margin-left: 70px;
+}
+.new-pd{
+    margin-left: 70px;
 }
 .new-raf{
     list-style: none;
-    margin-left: 80px;
+    margin-left: 60px;
+    
 }
-.new-tip{
-    justify-content: center;
-    margin-left: 550px;
-    margin-bottom: 90px;
-    margin-top: -650px;
+.new-rip{
+    margin-left: 570px;
+    margin-top: -250px;
+    margin-bottom: 130px;
 }
-.new-ti{
-    justify-content: center;
-    margin-left: 350px;
-    margin-bottom: 100px;
-    margin-top: -70px;
+.new-rp{
+    margin-left: 575px;
+    margin-top: -110px;
+}
+.rp-new{
+    margin-left: 350px ;
+    margin-bottom: -50x;
+    text-align: left;
 }
 .new-op{
-    text-align: center;
+    margin-left: 550px ;
+    margin-bottom: -50x;
     list-style: none;
-    margin-left: -30px;
-    margin-top: -90px;
-
 }
-.java-js{
-    text-align: center;
-    justify-content: center;
+.ip-new{
     margin-left: 1000px;
-    margin-top: -300px;
-    margin-bottom: 90px;
+    margin-bottom: 1100px;
+    margin-top: -170px;
+}
+.pi-new{
+    margin-left: 975px;
+    margin-top: -1090px ;
+}
+.new-os{
+    margin-left: 960px;
+    margin-top: -10px ;
+}
+.ip-no{
+margin-left:980px ;
+margin-top: -5px;
+list-style: none;
+}
+.vp-ip{
+    margin-left: 200px;
+
+    border-radius: 50px;
+}
+.pi-vp{
+    display: flex;
+margin-left:530px ;
+margin-top: -230px;
+}
+.pi-np{
+    margin-left:300px;
+margin-top: 30px;
+}
+.back-10{
+    margin-left: 470px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+.new-di{
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.fb-com{
+    margin-left: 450px;
+
 }
